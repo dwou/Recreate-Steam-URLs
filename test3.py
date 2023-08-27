@@ -8,7 +8,7 @@ import re
 # Filename should look like this:
 # steamcommunity.com_profiles_76561181234567890_games_xml=1.xml
 
-# You'll probably want to index .url files
+# You'll probably want to index .url files in C:\ProgramData\Microsoft\Windows\Start Menu\Programs and make a new folder
 
 filename = r''
 
