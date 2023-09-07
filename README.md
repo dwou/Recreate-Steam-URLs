@@ -6,3 +6,4 @@ Useful if you have a lot of Steam games that aren't indexed. Happened to me when
 4) Optional: put URL files in C:\ProgramData\Microsoft\Windows\Start Menu\Programs to index them
 ## Notes
 * Does not fetch game icon, uses default white Windows icon
+* Reads XML file in a not great way and therefore will break if the XML file structure/order change
